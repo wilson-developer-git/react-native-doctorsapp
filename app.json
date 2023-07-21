@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "football-bolao-app",
-    "slug": "football-bolao-app",
+    "name": "doctorsapp",
+    "slug": "doctorsapp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

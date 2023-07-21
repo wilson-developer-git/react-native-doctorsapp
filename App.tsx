@@ -8,7 +8,7 @@ import dark from './src/screens/theme/dark';
 
 export default function App() {
   return (
-    <ThemeProvider theme={ dark }>
+    <ThemeProvider theme={ light }>
         <Home />
     </ThemeProvider>
     
